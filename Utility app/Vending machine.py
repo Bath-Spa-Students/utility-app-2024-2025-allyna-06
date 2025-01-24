@@ -6,9 +6,9 @@ print("""
 
 # Dictionary containing items and their prices (VENDING MACHINE MENU) .
 items = {
-    "Drinks": {'cola': 1.50, 'pepsi': 1.80, 'Sprite': 2.35, 'miranda': 5.40},
-    "Snacks": {'chips': 1.00, 'candy': 0.75, 'Kitkat': 0.89, 'toffee': 3.12},
-    "Burgers": {'king burger': 10.20, 'Cheese Burger': 9.50, 'Mac Donald Burger': 13.45},
+    "Drinks": {'coke': 1.50, 'fanta': 1.20, 'Sprite': 2.00, 'pepsi': 5.40},
+    "Snacks": {'Lays': 3.00, 'ice cream': 5.75, 'Kitkat': 0.89, 'toffee': 3.12},
+    "Burgers": {'king burger': 10.20, 'Cheese Burger': 5.50, 'Double mac Burger': 13.45},
     "Entertainment": {'mini games': 10.20, 'magazine': 9.50, 'MP3 player': 13.45}
 }
 
